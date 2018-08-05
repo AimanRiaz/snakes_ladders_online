@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class SnakeLadderScript : MonoBehaviour {
 
 	public Image RollDice; // Dice Color
-	public GameObject rollDiceOuterFrame;
+	public GameObject rollDiceOuterFrame; // Dice outer frame
 	public GameObject[] snakePath_68,snakePath_52,snakePath_98,snakePath_46,snakePath_59,snakePath_83,snakePath_64,snakePath_93,snakePath_89;
 
 	private Vector3[] snake_68,snake_52 ,snake_98,snake_46,snake_59,snake_83,snake_64,snake_93,snake_89;
