@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 42e665f9c774440dca5ff1104e33ea9f
+timeCreated: 1487784354
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DS Bison Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1068cc700abbb4c25afe82ca44a04068, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

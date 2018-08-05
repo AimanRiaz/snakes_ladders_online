@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 041e107d3f57d40cd8135c9b68e22ba0
+timeCreated: 1488648779
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Challenge Contour
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ba5c6565fc84d490eb31c9effa621a27, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a9b2e50b4a0984311b5535e86feaafb6
+timeCreated: 1488648780
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Challenge Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7df09708f31724d50ada3bb07972cb52, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

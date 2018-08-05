@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3ed5c5c5a8a1d4bffb059b06aa97233a
+timeCreated: 1487783899
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Snacker Comic Personal Use Only
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
